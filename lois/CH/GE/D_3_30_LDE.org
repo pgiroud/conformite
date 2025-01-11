@@ -17,34 +17,19 @@ Le GRAND CONSEIL de la République et canton de Genève décrète ce qui suit :
 L’enregistrement est obligatoire ou facultatif, conformément aux dispositions des articles 3 et 4.
 *** Art. 3 Enregistrement obligatoire
 Sont soumis obligatoirement à l’enregistrement, sous réserve des exceptions prévues par la présente loi :
-[@a]) les actes authentiques dressés dans le canton de Genève par les notaires et par toute autre autorité
-compétente, ainsi que les vidimus;
-[@b]) les actes, écrits et pièces portant réquisition au registre foncier du canton de Genève;
-[@c]) les constats, protêts, actes de vente aux enchères publiques, procès-verbaux de tout genre, dressés dans
-le canton de Genève par les huissiers judiciaires;
-[@d]) les procès-verbaux d’adjudications prononcées en matière immobilière par les offices cantonaux des
-poursuites et des faillites(63) du canton de Genève;
-[@e]) les jugements, décisions judiciaires, expéditions, extraits, copies certifiées conformes, compromis et
-sentences d’arbitrage et d’une manière générale tous les actes et opérations que les dispositions du titre
-XIX assujettissent à cette obligation;
-[@f]) les actes, écrits et pièces portant partage de successions ouvertes dans le canton de Genève, ainsi que
-ceux de successions ouvertes à l’étranger lorsqu’elles comprennent des biens sis à Genève, soumis aux
-droits de succession dans ce canton sous réserve des dispositions de l’article 6, lettre t;
-[@g]) les actes, écrits et pièces portant attribution de biens résultant de changement ou de liquidation d’un régime
-matrimonial lorsque les époux, ou l’un d’entre eux, sont domiciliés ou résident dans le canton de Genève;
-[@h]) les donations et autres avantages semblables que les dispositions du titre IV assujettissent à cette
-obligation sous réserve des dispositions de l’article 6, lettres u et v;
-[@i]) les cessions de droits mentionnées à l’article 50, alinéa 2, quelle que soit leur forme;
-[@j]) les reprises de biens visées à l’article 57 ainsi que les souscriptions d’actions de sociétés anonymes et de
-parts de sociétés à responsabilité limitée;
-[@k]) les contrats d’entreprise mentionnés à l’article 83, alinéa 2, et autres contrats analogues;(5)
-[@l]) les actes et opérations mentionnés dans un acte civil, un compromis ou un jugement arbitral, ou dont il est
-fait état dans une opération présentée à l’enregistrement, à la condition qu’ils n’aient pas été auparavant
-enregistrés ou ne soient pas exempts de cette formalité;(5)
-[@m]) les actes civils et judiciaires et toute pièce établis hors du canton de Genève, dont il est fait état dans un
-acte civil ou judiciaire, lui-même présenté à l’enregistrement à Genève; cette disposition s’applique même
-si les actes et les opérations dont il est fait état ont été effectués hors du canton de Genève, à moins qu’il
-n’en résulte une double imposition contraire au droit fédéral.(5)
+a) les actes authentiques dressés dans le canton de Genève par les notaires et par toute autre autorité compétente, ainsi que les vidimus;
+b) les actes, écrits et pièces portant réquisition au registre foncier du canton de Genève;
+c) les constats, protêts, actes de vente aux enchères publiques, procès-verbaux de tout genre, dressés dans le canton de Genève par les huissiers judiciaires;
+d) les procès-verbaux d’adjudications prononcées en matière immobilière par les offices cantonaux des poursuites et des faillites(63) du canton de Genève;
+e) les jugements, décisions judiciaires, expéditions, extraits, copies certifiées conformes, compromis et sentences d’arbitrage et d’une manière générale tous les actes et opérations que les dispositions du titre XIX assujettissent à cette obligation;
+f) les actes, écrits et pièces portant partage de successions ouvertes dans le canton de Genève, ainsi que ceux de successions ouvertes à l’étranger lorsqu’elles comprennent des biens sis à Genève, soumis aux droits de succession dans ce canton sous réserve des dispositions de l’article 6, lettre t;
+g) les actes, écrits et pièces portant attribution de biens résultant de changement ou de liquidation d’un régime matrimonial lorsque les époux, ou l’un d’entre eux, sont domiciliés ou résident dans le canton de Genève;
+h) les donations et autres avantages semblables que les dispositions du titre IV assujettissent à cette obligation sous réserve des dispositions de l’article 6, lettres u et v;
+i) les cessions de droits mentionnées à l’article 50, alinéa 2, quelle que soit leur forme;
+j) les reprises de biens visées à l’article 57 ainsi que les souscriptions d’actions de sociétés anonymes et de parts de sociétés à responsabilité limitée;
+k) les contrats d’entreprise mentionnés à l’article 83, alinéa 2, et autres contrats analogues;(5)
+l) les actes et opérations mentionnés dans un acte civil, un compromis ou un jugement arbitral, ou dont il est fait état dans une opération présentée à l’enregistrement, à la condition qu’ils n’aient pas été auparavant enregistrés ou ne soient pas exempts de cette formalité;(5)
+m) les actes civils et judiciaires et toute pièce établis hors du canton de Genève, dont il est fait état dans un acte civil ou judiciaire, lui-même présenté à l’enregistrement à Genève; cette disposition s’applique même si les actes et les opérations dont il est fait état ont été effectués hors du canton de Genève, à moins qu’il n’en résulte une double imposition contraire au droit fédéral.(5)
 *** Art. 4 Enregistrement facultatif
 1 Peuvent être enregistrés tous les actes et opérations auxquels les parties veulent assurer date certaine; dans
 ce cas, les droits prévus par la présente loi sont exigibles, même s’il s’agit d’actes et d’opérations énumérés à
@@ -72,7 +57,7 @@ e) les reconnaissances et les quittances délivrées par la caisse des consignat
 f) les cautionnements pour mise en liberté provisoire de prévenus;
 g) les pièces officielles concernant la poursuite pour dettes et la faillite, autres que les procès-verbaux
 d’adjudication de biens immobiliers;
-h) les déclarations d'apposition des affiches mentionnées à l'article 218 de la loi d'application du code civil
+h) les déclarations d’apposition des affiches mentionnées à l’article 218 de la loi d’application du code civil
 suisse et d’autres lois fédérales en matière civile, du 11 octobre 2012;(60)
 i) les extraits ou attestations délivrés par l’office du registre foncier(63);
 j) les actes et pièces administratifs faits à l’occasion de l’établissement du registre foncier fédéral et de la
@@ -96,7 +81,7 @@ ou une expédition de jugement, à condition qu’ils ne soient pas de par leur 
 à cette formalité;
 s) les actes et opérations mentionnés aux articles 121, 125 et 128;
 t) les actes, écrits et pièces portant partage sous seing privé de biens exclusivement mobiliers dépendant de
-successions ouvertes dans le canton de Genève, lorsque l'actif net successoral est inférieur à 
+successions ouvertes dans le canton de Genève, lorsque l’actif net successoral est inférieur à 
 50 000 francs et à la condition que cet actif soit dévolu aux héritiers mentionnés aux articles 6A et 17 de
 la loi sur les droits de succession, du 26 novembre 1960;(43)
 u) les donations faites aux institutions visées à l’article 28;(50)
@@ -179,10 +164,10 @@ d’opération, ordonner une estimation par expert.
 mandataire que l’estimation doit être faite par un ou des experts désignés d’un commun accord.
  Procédure judiciaire
 3 Si, dans les 10 jours qui suivent la proposition du directeur de l’administration de l’enregistrement(61) de
-procéder à une expertise amiable, le débiteur ou son mandataire n'accepte pas cette procédure, le directeur de
+procéder à une expertise amiable, le débiteur ou son mandataire n’accepte pas cette procédure, le directeur de
 l’administration de l’enregistrement(61) peut faire procéder à une expertise judiciaire; dans ce cas, le président
 du Tribunal civil nomme 1 ou 3 experts, sur requête du directeur de l’administration de l’enregistrement(61);
-toutefois, si les parties y consentent, il n'est désigné qu'un seul expert.(55)
+toutefois, si les parties y consentent, il n’est désigné qu’un seul expert.(55)
 4 Le président du tribunal, après avoir convoqué les parties dans les 10 jours, sans frais, par lettre
 recommandée, et les avoir entendues si elles se présentent, décide souverainement du choix des experts.
 5 Le président du tribunal établit la mission d’expertise et la communique aux experts avec l’indication du délai
@@ -330,7 +315,7 @@ lesquelles doivent être rappelées dans l’acte ou la déclaration d’opérat
 ans.
 *** Art. 19 1re catégorie : ligne directe, époux et alliés(43)
 1 La présente disposition est applicable pour les donations en faveur de bénéficiaires de la première catégorie
-qui ne sont pas exemptées de tous droits selon l'article 27A, alinéa 1.(43)
+qui ne sont pas exemptées de tous droits selon l’article 27A, alinéa 1.(43)
 2 Le tarif des droits de donation pour les enfants, pour les père et mère et entre époux est fixé à :
 (43)
 |------+--------------+-------------+---+-------------|
@@ -383,10 +368,10 @@ Pour tous les cas non prévus aux articles 19 à 22, le tarif est fixé à :
 | 26% | au-dessus de | 100 000 fr. |   |             |
 |-----+--------------+-------------+---+-------------|  
 *** Art. 24(43) Exemption des centimes additionnels
-Il n'est perçu aucun centime additionnel sur les droits de donation de la première catégorie, visée à l'article 19.
+Il n’est perçu aucun centime additionnel sur les droits de donation de la première catégorie, visée à l’article 19.
 *** Art. 25(43) Calcul des droits
-Le calcul des droits s'effectue conformément aux barèmes prévus aux articles 19, et 21 à 23, en tenant compte
-des taux applicables aux tranches inférieures ainsi que de l'exonération de base.
+Le calcul des droits s’effectue conformément aux barèmes prévus aux articles 19, et 21 à 23, en tenant compte
+des taux applicables aux tranches inférieures ainsi que de l’exonération de base.
 *** Art. 26 Usufruit
 1 Lorsque la donation a pour objet l’exercice d’un droit d’usufruit, son abandon ou sa cession, la valeur de cet
 usufruit se détermine, pour la perception des droits, en tenant compte de l’âge de l’usufruitier et d’après les
@@ -399,12 +384,12 @@ d) s’il est âgé de plus de 69 ans, sur le huitième de la même valeur.
 2 Lorsque la donation a pour objet la nue-propriété de biens grevés d’usufruit au profit d’un tiers, le droit est
 perçu sur la valeur de la pleine propriété, diminuée de la valeur de l’usufruit calculé comme indiqué ci-dessus.
 *** Art. 27 Exonérations de base
-1 Lorsque les conditions à l'exonération selon l'article 27A, alinéa 1, ne sont pas réunies, sont exemptes de tous
+1 Lorsque les conditions à l’exonération selon l’article 27A, alinéa 1, ne sont pas réunies, sont exemptes de tous
 droits :
 (43)
-a) les donations n'excédant pas 10 000 francs faites par le donateur aux personnes appartenant à la première
-catégorie visée à l'article 19; toutefois, les donations faites aux bénéficiaires de cette catégorie qui au
-moment de la donation n'ont pas la qualité d'héritiers présomptifs ne sont exemptes de droits que sur la
+a) les donations n’excédant pas 10 000 francs faites par le donateur aux personnes appartenant à la première
+catégorie visée à l’article 19; toutefois, les donations faites aux bénéficiaires de cette catégorie qui au
+moment de la donation n’ont pas la qualité d’héritiers présomptifs ne sont exemptes de droits que sur la
 première tranche de 5 000 francs;(43)
 b) les donations n’excédant pas 5 000 francs faites par le donateur à toute autre personne.
 2 Pour les donations faites à tout employé de maison qui lors de la donation est ou a été au service personnel
@@ -414,27 +399,27 @@ du donateur ou de son conjoint, la tranche d’exonération de base de 5 000 fra
 de Genève. Dans le cas contraire, le montant, qui de ce chef n’est pas exonéré, est assujetti aux droits, sans
 exonération de base, au taux prévu pour la première tranche de la catégorie correspondante.
 *** Art. 27A(43) Exonération totale
-1 Sont exemptes de tous droits les donations ultérieures à l'entrée en vigueur de la présente disposition faites
+1 Sont exemptes de tous droits les donations ultérieures à l’entrée en vigueur de la présente disposition faites
 par le donateur :
 a) à son conjoint;
-b) à ses parents en ligne directe; l'enfant adopté au sens du code civil suisse a le statut d'un enfant de
-l'adoptant.
-2 L'alinéa 1 n'est pas applicable lorsque, selon l'une ou l'autre des trois dernières décisions de taxation
-définitives au moment de la donation, le donateur était au bénéfice d'une imposition d'après la dépense au sens
-de l'article 14 de la loi sur l’imposition des personnes physiques, du 27 septembre 2009.(53)
+b) à ses parents en ligne directe; l’enfant adopté au sens du code civil suisse a le statut d’un enfant de
+l’adoptant.
+2 L’alinéa 1 n’est pas applicable lorsque, selon l’une ou l’autre des trois dernières décisions de taxation
+définitives au moment de la donation, le donateur était au bénéfice d’une imposition d’après la dépense au sens
+de l’article 14 de la loi sur l’imposition des personnes physiques, du 27 septembre 2009.(53)
 *** Art. 28(50) Exemptions
 1 Sont exemptes de tous droits, les donations à des personnes morales ayant leur siège en Suisse, qui sont
 exonérées des impôts sur le bénéfice et sur le capital, en raison de leur but de service public, d’utilité publique,
 cultuel, ou à la Confédération, aux cantons, aux communes et à leurs établissements.
-2 Le Conseil d'Etat peut exempter partiellement ou totalement des droits les donations faites à des personnes
-morales qui ont leur siège à l'étranger, lorsqu'elles poursuivent un but de service public ou d'utilité publique.
-Revêtant un caractère politique prépondérant au sens de l'article 86, alinéa 3, de la loi fédérale sur le Tribunal
-fédéral, du 17 juin 2005, les décisions du Conseil d'Etat ne sont pas sujettes à recours cantonal. Le Conseil
+2 Le Conseil d’Etat peut exempter partiellement ou totalement des droits les donations faites à des personnes
+morales qui ont leur siège à l’étranger, lorsqu’elles poursuivent un but de service public ou d’utilité publique.
+Revêtant un caractère politique prépondérant au sens de l’article 86, alinéa 3, de la loi fédérale sur le Tribunal
+fédéral, du 17 juin 2005, les décisions du Conseil d’Etat ne sont pas sujettes à recours cantonal. Le Conseil
 d’Etat présente un rapport annuel au Grand Conseil, dans le cadre du compte rendu, sur les réductions des
 droits d’enregistrement octroyées à des institutions à l’étranger.(53)
 3 Le Conseil d’Etat est autorisé à conclure des accords de réciprocité en matière d’exemption ou de réduction
-des droits d’enregistrement prévus au présent titre, à l'effet d'étendre la portée de l'alinéa 1 à des personnes
-morales ayant leur siège à l'étranger.(53)
+des droits d’enregistrement prévus au présent titre, à l’effet d’étendre la portée de l’alinéa 1 à des personnes
+morales ayant leur siège à l’étranger.(53)
 *** Art. 29 Capital de dotation d’une fondation
 1 Le capital de dotation des fondations est soumis aux dispositions du présent titre.
  Personnes morales
@@ -443,9 +428,9 @@ morale sont soumises aux dispositions du présent titre.
  Fondations de famille
 3 Pour les libéralités entre vifs consenties en faveur de fondations de famille à créer ou créées, les droits sont
 perçus tant sur le capital constitutif que sur les libéralités subséquentes, en tenant compte du degré de parenté
-existant entre le donateur et le bénéficiaire de la fondation; s'il y a plusieurs bénéficiaires, c'est le degré de
+existant entre le donateur et le bénéficiaire de la fondation; s’il y a plusieurs bénéficiaires, c’est le degré de
 parenté existant entre le donateur et le bénéficiaire au degré de parenté le plus éloigné qui est déterminant pour
-l'application du tarif prévu aux articles 19, 21, 22 et 23.(43)
+l’application du tarif prévu aux articles 19, 21, 22 et 23.(43)
  Institutions de prévoyance en faveur du personnel
 4 Le capital constitutif des institutions de prévoyance en faveur du personnel, possédant la personnalité
 juridique, est soumis au droit de 1%, et au minimum de 200 francs lorsque ces institutions remplissent les
@@ -467,8 +452,8 @@ Il n’est perçu aucun centime additionnel sur les droits prévus à l’aliné
 7 Les dispositions du présent article ne sont pas applicables aux libéralités faites à cause de mort, lesquelles
 restent soumises aux dispositions de la loi sur les droits de succession.
 *** Art. 30 Donation lors du mariage
-1 Toute donation faite aux futurs époux ou à l'un d'eux dans les 15 jours qui précèdent le mariage n'est soumise
-qu'au demi-droit lorsque les conditions à l'exonération selon l'article 27A, alinéa 1, ne sont pas réunies.(43)
+1 Toute donation faite aux futurs époux ou à l’un d’eux dans les 15 jours qui précèdent le mariage n’est soumise
+qu’au demi-droit lorsque les conditions à l’exonération selon l’article 27A, alinéa 1, ne sont pas réunies.(43)
 2 Les parties doivent justifier de la célébration du mariage.
 *** Art. 31 Donation sous condition suspensive de la survie du donataire
 L’acte contenant donation sous la condition suspensive de la survie du donataire donne ouverture lors de son
@@ -520,11 +505,11 @@ sa vocation agricole, avait été estimé à sa valeur vénale lors de la vente.
 entre la valeur de rendement retenue pour la perception des droits d’enregistrement et la valeur vénale qui doit
 être déclarée, pour mémoire, au jour de l’acte.
 *** Art. 36(43) Cessions d’immeubles au conjoint survivant en paiement de ses reprises
-N'est soumis qu'au droit de partage l'acte par lequel, après le décès de l'un des époux, des biens immobiliers
-dépendant de sa succession sont cédés au conjoint survivant, en paiement et jusqu'à concurrence de ses
+N’est soumis qu’au droit de partage l’acte par lequel, après le décès de l’un des époux, des biens immobiliers
+dépendant de sa succession sont cédés au conjoint survivant, en paiement et jusqu’à concurrence de ses
 reprises matrimoniales, par les enfants issus du mariage, par leurs descendants ou par les enfants adoptifs
-bénéficiant de l'exonération prévue à l'article 6A, alinéa 1, de la loi sur les droits de succession, du 26 novembre
-1960, ou du tarif de l'article 17, alinéa 2, de cette même loi.
+bénéficiant de l’exonération prévue à l’article 6A, alinéa 1, de la loi sur les droits de succession, du 26 novembre
+1960, ou du tarif de l’article 17, alinéa 2, de cette même loi.
 *** Art. 37 Folle enchère et surenchère
 En cas d’adjudication d’immeuble résultant de folle enchère ou de surenchère, les droits perçus sur la
 précédente adjudication sont restitués à la personne qui les a acquittés, après l’enregistrement de l’acte
@@ -621,7 +606,7 @@ est calculé sur la valeur des actions estimées conformément à l’article 35
 Il n’est perçu aucun droit sur la quittance des acomptes payés lorsqu’elle est renfermée dans les actes
 énoncés ci-dessus. La quittance mentionnée dans un acte de prorogation de délai visé dans un des actes cidessus reste soumise au droit.
 *** Art. 51(50) Utilité publique
-L'exemption prévue à l'article 42, alinéas 1 et 3, est applicable aux actes énoncés à l'article 50.
+L’exemption prévue à l’article 42, alinéas 1 et 3, est applicable aux actes énoncés à l’article 50.
 *** Art. 52 Transferts de biens mobiliers
 1 Sont soumis au droit de 1% dans les limites de l’article 2, tous les actes translatifs à titre onéreux de la
 propriété, de la nue-propriété ou de l’usufruit de biens mobiliers, notamment les ventes, adjudications, apports
@@ -710,11 +695,11 @@ qui en font l’objet.
 Il n’est dû qu’un droit fixe de 5 francs sur l’acte par lequel un débiteur fait cession de tous ses biens à la masse
 de ses créanciers, en cas de faillite ou de concordat.
 *** Art. 61A(53) Restructurations
-1 Il n'est perçu aucun droit prévu au présent titre en cas de restructuration en franchise d’impôts au sens des
+1 Il n’est perçu aucun droit prévu au présent titre en cas de restructuration en franchise d’impôts au sens des
 articles 20, alinéa 1, de la loi sur l’imposition des personnes physiques, du 27 septembre 2009, et 24, alinéas 3
 et 3quater de la loi fédérale sur l’harmonisation des impôts directs des cantons et des communes, du 14 décembre
 1990.
-2 En cas de non-respect du délai de blocage prévu par les lois mentionnées à l'alinéa précédent, les droits
+2 En cas de non-respect du délai de blocage prévu par les lois mentionnées à l’alinéa précédent, les droits
 d’enregistrement sont perçus après coup. Le droit de procéder à la reprise des droits se prescrit par 5 ans à
 compter de la date du non-respect du délai de blocage.
 * Titre VI Partages
@@ -735,11 +720,11 @@ cas où, de leur vivant, il est procédé au changement ou à la liquidation de 
 3 Si les biens propres ou les apports ou les biens réservés n’existent plus en nature, l’exemption des droits ne
 s’applique qu’aux biens acquis en remploi ou, à défaut de remploi, à la créance qui en résulte.(19)
  Exonération de base
-4 Est exonérée des droits prévus à l'alinéa 1 la première tranche de 50 000 francs de la valeur des biens
+4 Est exonérée des droits prévus à l’alinéa 1 la première tranche de 50 000 francs de la valeur des biens
 énumérés dans un partage sous seing privé de succession exclusivement mobilière, ouverte dans le canton de
-Genève. Le bénéfice de cette exonération, applicable une fois seulement par succession, n'est accordé que si
+Genève. Le bénéfice de cette exonération, applicable une fois seulement par succession, n’est accordé que si
 les copartageants sont des ayants droit mentionnés aux articles 6A et 17 de la loi sur les droits de succession,
-du 26 novembre 1960. Cette exonération n'est pas applicable dans le cas énoncé à l'article 56 de la présente
+du 26 novembre 1960. Cette exonération n’est pas applicable dans le cas énoncé à l’article 56 de la présente
 loi.(43)
 *** Art. 63 Principes en matière d’estimation des biens(24)
 Les biens faisant l’objet du partage successoral, du changement ou de la liquidation du régime matrimonial sont
@@ -796,9 +781,9 @@ attribuées aux membres de l’indivision soient conformes aux droits que ces de
 avaient au moment de la création de cette indivision.
 *** Art. 69(43)
  Régime matrimonial – Modification dans l’attribution des biens
-Lorsque le changement ou la liquidation du régime matrimonial attribue à l'un des époux des biens pour une
+Lorsque le changement ou la liquidation du régime matrimonial attribue à l’un des époux des biens pour une
 valeur dépassant la quotité à laquelle il avait droit en application du régime matrimonial dissous, la différence
-de valeur est soumise au droit de donation à moins que l'époux ne bénéficie de l'exemption selon l'article 27A,
+de valeur est soumise au droit de donation à moins que l’époux ne bénéficie de l’exemption selon l’article 27A,
 alinéa 1.
 *** Art. 70 Transfert aux associés d’une société en nom collectif ou en commandite
 1 L’acte par lequel un immeuble inscrit depuis 5 ans au moins au nom d’une société en nom collectif ou en
@@ -918,7 +903,7 @@ Les emprunts contractés par les communes du canton de Genève sont exempts des 
 *** Art. 89(50) Autres institutions
 1 Les emprunts contractés exclusivement dans un but d’utilité publique par les institutions visées à l’article 28
 sont exemptés des droits d’enregistrement.
-2 Le Conseil d'Etat constate par arrêté si les conditions sont remplies.
+2 Le Conseil d’Etat constate par arrêté si les conditions sont remplies.
 *** Art. 90 Reconnaissances de biens
 Ne sont soumis qu’à un droit fixe de 5 francs :
 a) les reconnaissances de biens propres, d’apports et de biens réservés ou de leur emploi faites entre futurs
@@ -1218,7 +1203,7 @@ afférents aux actes suivants :
 a) les jugements, décisions et ordonnances préparatoires, provisoires ou provisionnels;
 b) les jugements, décisions et ordonnances rendus dans les cas où le Ministère public intente une action;
 c) les jugements rendus par voie de procédure sommaire au sens du code de procédure civile suisse et ceux
-relevant de la loi fédérale sur la poursuite pour dettes et la faillite, du 11 avril 1889, au sens de l'article 198,
+relevant de la loi fédérale sur la poursuite pour dettes et la faillite, du 11 avril 1889, au sens de l’article 198,
 lettre e, de ce code;(55)
 d) (55)
 e) les jugements relatifs aux faillites et aux concordats;
@@ -1315,7 +1300,7 @@ l’enregistrement est obligatoire en application de la présente loi.
 2 Sous réserve des exceptions prévues par la loi, il ne peut accepter aucune réquisition qui ne soit enregistrée
 ou qui ne résulte pas d’un titre enregistré.
 *** Art. 137 Dispositions relatives au service de surveillance des fondations et des institutions de prévoyance
-1 L'autorité cantonale de surveillance des fondations et des institutions de prévoyance est tenue d'informer
+1 L’autorité cantonale de surveillance des fondations et des institutions de prévoyance est tenue d’informer
 l’administration de l’enregistrement(61) de toute libéralité faite aux institutions placées sous sa surveillance et ce
 dans le délai de 10 jours à compter de la date où elle en a eu connaissance.(57)
 2 Ne font pas l’objet de cette communication, les versements et donations visés à l’article 29, alinéa 5.
@@ -1615,9 +1600,9 @@ c) en cas de refus du débiteur ou de son mandataire de fournir les justificatio
 rend ceux qui l’ont fait solidairement responsables des droits. Le recouvrement des droits s’opère comme à
 l’égard de tout débiteur de droits d’enregistrement.
 *** Art. 173(58) Hypothèque légale
-1 La part des droits d'enregistrement, qui se rapporte à des immeubles, est au bénéfice d'une hypothèque légale
-sans inscription au sens de l'article 836 du code civil suisse et dans les termes prévus par l'article 147 de la loi
-d'application du code civil suisse et d’autres lois fédérales en matière civile, du 11 octobre 2012.(60)
+1 La part des droits d’enregistrement, qui se rapporte à des immeubles, est au bénéfice d’une hypothèque légale
+sans inscription au sens de l’article 836 du code civil suisse et dans les termes prévus par l’article 147 de la loi
+d’application du code civil suisse et d’autres lois fédérales en matière civile, du 11 octobre 2012.(60)
 2 L’hypothèque légale ne peut viser que des immeubles qui sont ou ont été la propriété du contribuable.
 * Titre XXIII Pénalités
 *** Art. 174(64) Inobservation des délais de déclaration
@@ -1666,8 +1651,8 @@ y incite ou qui intentionnellement ou par négligence y participe ou les favoris
 175.
 3 Le recouvrement des amendes a lieu de la même manière que celui des droits d’enregistrement.
 *** Art. 177 Poursuite pénale
-1 Celui qui, au sens des dispositions de l'article 175, frustre l'Etat des droits d'enregistrement peut en outre être
-puni de l'amende.(47)
+1 Celui qui, au sens des dispositions de l’article 175, frustre l’Etat des droits d’enregistrement peut en outre être
+puni de l’amende.(47)
 2 (47)
 3 (47)
 4 (47)
@@ -1676,7 +1661,7 @@ puni de l'amende.(47)
 7 (47)
 8 Le département des finances et des ressources humaines(62) dénonce les faits au Ministère public, qui décide
 de la poursuite pénale.(54)
-9 Lorsque la décision relative aux faits reprochés peut être l'objet d'un recours cantonal, la poursuite pénale ne
+9 Lorsque la décision relative aux faits reprochés peut être l’objet d’un recours cantonal, la poursuite pénale ne
 peut avoir lieu que lorsque les instances de recours ont été épuisées ou lorsque les délais de recours sont
 expirés.(52)
 10 La prescription de l’action pénale ne court pas pendant la procédure de recours.
@@ -1698,10 +1683,10 @@ paiement des droits.
  Notification de la décision
 6 La décision motivée du département des finances et des ressources humaines(62) est notifiée au débiteur par
 lettre recommandée.
-7 Cette décision mentionne qu'elle peut être l'objet d'un recours dans les 30 jours et en application des
+7 Cette décision mentionne qu’elle peut être l’objet d’un recours dans les 30 jours et en application des
 dispositions des articles 179 et 180, sans préjudice des possibilités de recours prévues par le droit fédéral.(52)
 *** Art. 179 Recours ordinaire au Tribunal administratif de première instance(56)
-1 Le débiteur, dont la réclamation n'a pas été intégralement admise, peut recourir contre la décision du
+1 Le débiteur, dont la réclamation n’a pas été intégralement admise, peut recourir contre la décision du
 département des finances et des ressources humaines(62) au Tribunal administratif de première instance(56), dans
 sa composition prévue par l’article 44 de la loi de procédure fiscale, du 4 octobre 2001.(52)
  Procédure
@@ -1709,8 +1694,8 @@ sa composition prévue par l’article 44 de la loi de procédure fiscale, du 4 
 .
 (52)
  Paiement partiel
-3 Le montant non contesté des droits d'enregistrement doit être versé à la caisse de l'Etat, au plus tard dans le
-délai légal de paiement des droits; à l'expiration de ce délai, le Tribunal administratif de première instance(56)
+3 Le montant non contesté des droits d’enregistrement doit être versé à la caisse de l’Etat, au plus tard dans le
+délai légal de paiement des droits; à l’expiration de ce délai, le Tribunal administratif de première instance(56)
 peut ordonner le recouvrement de cette somme conformément aux articles 168 et 169.(52)
 4 (23)
  Notification de la décision
@@ -1718,11 +1703,11 @@ peut ordonner le recouvrement de cette somme conformément aux articles 168 et 1
 conforme, par lettre recommandée, avec accusé de réception.(52)
 *** Art. 180 Recours à la chambre administrative de la Cour de justice(56)
 1 En cas de recours à la chambre administrative de la Cour de justice(56) contre la décision du Tribunal
-administratif de première instance(56), si le débiteur n'a pas encore acquitté la somme qu'il reconnaît devoir, l'Etat
+administratif de première instance(56), si le débiteur n’a pas encore acquitté la somme qu’il reconnaît devoir, l’Etat
 peut, à la première audience, obtenir par provision jugement pour la somme reconnue.(52)
 2 Ce jugement est immédiatement exécutoire.(35)
 *** Art. 181 Remise exceptionnelle
-1 Dans des cas exceptionnels, une remise partielle des droits d'enregistrement peut être accordée par le
+1 Dans des cas exceptionnels, une remise partielle des droits d’enregistrement peut être accordée par le
 département des finances et des ressources humaines(62) au débiteur qui se trouve, par suite de circonstances
 indépendantes de sa volonté, dans une situation telle que le paiement intégral de la somme due aurait pour lui
 des conséquences particulièrement dures.(51)
@@ -1731,7 +1716,7 @@ des conséquences particulièrement dures.(51)
 de réclamation ou de recours, le débiteur peut encore formuler cette demande dans les 30 jours de la date où
 la taxation est devenue définitive.
 3 Elle est adressée au département des finances et des ressources humaines(62), par écrit, sur papier libre, avec
-justification des motifs et, s'il y a lieu, production des pièces justificatives.(51)
+justification des motifs et, s’il y a lieu, production des pièces justificatives.(51)
 4 Les décisions du département des finances et des ressources humaines(62) ouvrent les mêmes voies de droit
 que les décisions de taxation.(51)
 *** Art. 182 Restitution des droits
@@ -1779,9 +1764,9 @@ parenté,
 crédit, sans égard à la date à laquelle le crédit a été effectivement réalisé,
 3° à compter du jour de la cessation d’exploitation en cas de reprise conformément à l’article 17A, alinéa
 2,(13)
-4° à compter de l'expiration du délai de 2 ans prévu aux articles 8A, alinéa 3, et 42, alinéa 2, ou du jour de
-la cessation d'affectation de l'immeuble, en cas de reprise conformément à ces dispositions; en cas de
-vente de l'immeuble selon l'article 42, alinéa 2, le droit de l'Etat se prescrit toutefois par 4 ans à compter
+4° à compter de l’expiration du délai de 2 ans prévu aux articles 8A, alinéa 3, et 42, alinéa 2, ou du jour de
+la cessation d’affectation de l’immeuble, en cas de reprise conformément à ces dispositions; en cas de
+vente de l’immeuble selon l’article 42, alinéa 2, le droit de l’Etat se prescrit toutefois par 4 ans à compter
 de celle-ci;(50)
 b) 5 ans :
 1° à compter de la date à laquelle l’acte ou l’opération obligatoirement soumis à l’enregistrement aurait dû
@@ -1795,7 +1780,7 @@ prescrivent par 5 ans à compter de leur exigibilité.
 4 Les articles 129 et 142 du code des obligations sont applicables par analogie.
 * Titre XXVI Dispositions finales et transitoires
 *** Art. 186 Dispositions finales
-1 Ne s'appliquent pas aux droits d'enregistrement les articles 92 à 265 et 285 de la loi générale sur les
+1 Ne s’appliquent pas aux droits d’enregistrement les articles 92 à 265 et 285 de la loi générale sur les
 contributions publiques, du 9 novembre 1887.(51)
 2 Toutefois, restent applicables les dispositions résultant de lois, de règlements ou d’arrêtés particuliers, non
 incorporés dans la présente loi, même s’ils se réfèrent à l’un des articles mentionnés à l’alinéa précédent.
@@ -1820,7 +1805,7 @@ l’actionnaire est inscrit au Registre foncier au plus tard le 31 décembre 200
 * Inscription RSG
 
 |--------+-----------------------------------+-----------------+-------------------|
-| RSG    | Intitulé                          | Date d'adoption | Entrée en vigueur |
+| RSG    | Intitulé                          | Date d’adoption | Entrée en vigueur |
 |--------+-----------------------------------+-----------------+-------------------|
 | D 3 30 | L sur les droits d’enregistrement |      09.10.1969 |        01.01.1970 |
 |--------+-----------------------------------+-----------------+-------------------|
